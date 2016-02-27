@@ -13,7 +13,7 @@ class MasterViewController: UITableViewController {
     var detailViewController: DetailViewController? = nil
     var objects = [String]()
 
-
+    // configure the screen
     override func viewDidLoad() {
         super.viewDidLoad()
         
